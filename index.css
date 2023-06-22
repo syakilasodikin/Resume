@@ -1,0 +1,19 @@
+*   {
+    box-sizing: border-box;
+}
+
+.avatar {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+#main-photo {
+    width: 800px;
+    height: 400px;
+}
+
+nav {
+    display: flex;
+    gap: 16px;
+}
